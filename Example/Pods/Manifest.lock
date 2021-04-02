@@ -1,0 +1,16 @@
+PODS:
+  - SRPublicPod2 (0.1.0)
+
+DEPENDENCIES:
+  - SRPublicPod2 (from `../`)
+
+EXTERNAL SOURCES:
+  SRPublicPod2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRPublicPod2: 868dc1032d723d60fa0bc7737c27ad755e6a1745
+
+PODFILE CHECKSUM: 8a8b91359cdda5d65c695dbe5188847452923b38
+
+COCOAPODS: 1.10.1

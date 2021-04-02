@@ -1,0 +1,6 @@
+framework module SRPublicPod2 {
+  umbrella header "SRPublicPod2-umbrella.h"
+
+  export *
+  module * { export * }
+}

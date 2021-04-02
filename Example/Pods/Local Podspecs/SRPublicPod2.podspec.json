@@ -1,0 +1,22 @@
+{
+  "name": "SRPublicPod2",
+  "version": "0.1.0",
+  "summary": "A short description of SRPublicPod2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yanguixiu/SRPublicPod2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanguixiu": "yanguixiu@sobey.com"
+  },
+  "source": {
+    "git": "https://github.com/yanguixiu/SRPublicPod2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SRPublicPod2/Classes/**/*"
+}
