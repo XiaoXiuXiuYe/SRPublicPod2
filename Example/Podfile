@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SRPublicPod2_Example' do
+  pod 'SRPublicPod2', :path => '../'
+
+  target 'SRPublicPod2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
